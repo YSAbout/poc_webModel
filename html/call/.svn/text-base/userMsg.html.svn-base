@@ -1,0 +1,65 @@
+<div class="msgTit">客户基本信息</div>
+<div class="userHead">
+	<div class="userHead_img">
+		
+	</div>
+	<ul>
+		<li class="width42">姓名：<span id="name">扎克</span></li>
+		<li class="width36">性别：<span id="">男</span></li>
+		<li class="width22">年龄：<span id="">42</span></li>
+		<li class="width42">出生年月：<span id="">1970年12月11日</span></li>
+		<li class="width36">籍贯：<span id="">北京市朝阳区</span></li>
+	</ul>
+</div>
+<div class="msgTit">客户详细信息</div>
+<div class="fixedVal_Box">
+    <table class="fixedVal_table" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="width:22%" class="tt">证件类型</td>
+        <td style="width:28%"><span id="accountNo">身份证</span></td>
+        <td style="width:22%" class="tt">证件号码</td>
+        <td style="width:28%"><span id="accountName">220223199101012000</span></td>
+      </tr>
+      <tr>
+        <td class="tt">姓名</td>
+        <td><span id="">小雨</span></td>
+        <td class="tt">性别</td>
+        <td><span id="">男</span></td>
+      </tr>
+      <tr>
+        <td class="tt">生肖</td>
+        <td><span id="">牛</span></td>
+        <td class="tt">生日</td>
+        <td><span id="">1998-01-01</span></td>
+      </tr>
+      <tr>
+        <td class="tt">公司单位名称</td>
+        <td><span id="">宇信科技</span></td>
+        <td class="tt">设置查询密码</td>
+        <td><span id="">已设置</span></td>
+      </tr>
+      <tr>
+        <td class="tt">检查不过次数</td>
+        <td><span id="">0</span></td>
+        <td class="tt">审查中断次数</td>
+        <td><span id="">0</span></td>
+      </tr>
+    </table>
+</div>
+<div class="msgTit">贡献度信息</div>
+<div class="fixedVal_Box">
+    <table class="fixedVal_table" cellspacing="0" cellpadding="0">
+      <tr>
+        <td style="width:22%" class="tt">客户评级</td>
+        <td style="width:28%"><span id="">一级</span></td>
+        <td style="width:22%" class="tt">客户收入</td>
+        <td style="width:28%"><span id="">已设置</span></td>
+      </tr>
+      <tr>
+        <td class="tt">账单分期响应评分</td>
+        <td><span id="">小雨</span></td>
+        <td class="tt">满足升等级条件</td>
+        <td><span id="">否</span></td>
+      </tr>
+    </table>
+</div>

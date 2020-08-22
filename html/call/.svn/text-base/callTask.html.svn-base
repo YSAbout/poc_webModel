@@ -1,0 +1,53 @@
+<!--日期-->
+<ul class="dateBox">
+	<li class="data_lab">开始时间</li>
+	<li class="input-group">
+	  <input type="text" class="form-control date-ipt" readonly="readonly" placeholder="请选择开始时间">
+	  <span class="input-group-addon glyphicon glyphicon-th"></span>
+	</li>
+	<li class="data_lab">结束时间</li>
+	<li class="input-group">
+	  <input type="text" class="form-control date-ipt" readonly="readonly" placeholder="请选择结束时间">
+	  <span class="input-group-addon glyphicon glyphicon-th"></span>
+	</li>
+	<li class="btn-group">
+	  	<button type="button" class="btn btn-primary">
+	  		查询
+	  	</button>
+	</li>
+</ul>
+<!--进度条-->
+<div class="progress_box">
+	<div class="progress">
+	  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
+	    <span class="sr-only">大额外呼</span>
+	  </div>
+	</div>
+	<div class="progress">
+	  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+
+	    <span class="sr-only">金色阳光</span>
+	  </div>
+	</div>
+	<div class="progress">
+	  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
+
+	 	<span class="sr-only">自由分期</span>
+	  </div>
+	</div>
+</div>
+<div class="user_msg_box">
+	<ul class="menuMsg" data-check="menuMsgTask">
+		<li path="call/callTask_allTask" class="active">全部任务</li>
+		<li path="call/callTask_notDialed">未拨打</li>
+		<li path="call/callTask_regularCallback">常回拨</li>
+		<li path="call/callTask_noCallList">禁呼名单</li>
+	</ul>
+	<ul class="menuMsgTask" data-box = "menuMsgTask">
+		<li class="active"></li><!--全部任务-->
+		<li></li><!--未拨打-->
+		<li></li><!--常回拨-->
+		<li></li><!--禁呼名单-->
+	</ul>
+</div>
+			

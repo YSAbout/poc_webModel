@@ -1,0 +1,75 @@
+<div id="goldenTime" class="goldenTime">
+	<div class="query_iptBox">
+		<div class="lab">产品名称</div>
+		<input type="text" name="" id="" value="" />
+		<div class="lab">产品描述：</div>
+		<input type="text" name="" id="" value="" />
+		<input type="button" id="" value="搜索"/>
+	</div>
+	<div class="popTabel">
+		<table border="0" cellspacing="0" cellpadding="0">
+			<colgroup>
+				<col width="10%" />
+				<col width="15%" />
+				<col width="20%" />
+				<col width="20%" />
+				<col width="20%" />
+				<col width="15%" />
+			</colgroup>
+			<thead>
+				<tr class="th">
+					<th>产品名称<span clk id=""></span></th>
+					<th>产品编号<span clk id=""></span></th>
+					<th>产品介绍<span clk id=""></span></th>
+					<th>产品现金价格<span clk id=""></span></th>
+					<th>产品积分价格<span clk id=""></span></th>
+					<th>产品状态<span clk id=""></span></th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>001</td><td>金色时光</td><td>金色时光产品描述</td><td>3455.54</td><td>454.66</td><td><span class="td_clk">正常</span></td>
+				</tr>
+				<tr>
+					<td>001</td><td>金色时光</td><td>金色时光产品描述</td><td>3455.54</td><td>454.66</td><td><span class="td_clk">正常</span></td>
+				</tr>
+				<tr>
+					<td>001</td><td>金色时光</td><td>金色时光产品描述</td><td>3455.54</td><td>454.66</td><td><span class="td_clk lose">失效</span></td>
+				</tr>
+				<tr>
+					<td>001</td><td>金色时光</td><td>金色时光产品描述</td><td>3455.54</td><td>454.66</td><td><span class="td_clk">正常</span></td>
+				</tr>
+				<tr>
+					<td>001</td><td>金色时光</td><td>金色时光产品描述</td><td>3455.54</td><td>454.66</td><td><span class="td_clk">正常</span></td>
+				</tr>
+				<tr>
+					<td>001</td><td>金色时光</td><td>金色时光产品描述</td><td>3455.54</td><td>454.66</td><td><span class="td_clk">正常</span></td>
+				</tr>
+				<tr>
+					<td>001</td><td>金色时光</td><td>金色时光产品描述</td><td>3455.54</td><td>454.66</td><td><span class="td_clk">正常</span></td>
+				</tr>
+				<tr>
+					<td>001</td><td>金色时光</td><td>金色时光产品描述</td><td>3455.54</td><td>454.66</td><td><span class="td_clk">正常</span></td>
+				</tr>
+				<tr>
+					<td>001</td><td>金色时光</td><td>金色时光产品描述</td><td>3455.54</td><td>454.66</td><td><span class="td_clk">正常</span></td>
+				</tr>
+				<tr>
+					<td>001</td><td>金色时光</td><td>金色时光产品描述</td><td>3455.54</td><td>454.66</td><td><span class="td_clk">正常</span></td>
+				</tr>
+			</tbody>
+			
+		</table>
+		<div class="tb_play">
+			<div btn class="lt_first"></div>
+			<div btn class="lt"></div>
+			<div page id=""><span id="">1</span> / <span id="">10</span></div>
+			<div btn class="gt"></div>
+			<div btn class="gt_last"></div>
+			<input type="text" name="" id="" value="10" />
+			<div sub id="submitId">跳转</div>
+		</div>
+	</span>
+	
+	
+</div>
